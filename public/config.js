@@ -1,6 +1,6 @@
 window.__PRE_CONFIG__ = {
-  header: 'Server Status',
-  subHeader: 'Servers\' Probes Set up with ServerStatus',
-  interval: 1.5,
-  footer: '<p>Powered by <a href="https://github.com/cokemine/ServerStatus-Hotaru">ServerStatus-Hotaru</a></p>'
+  header: 'Adam 云监控',
+  subHeader: '多服务器云探针',
+  interval: 3.0,
+  footer: '<p>Powered by <a href="https://github.com/adamin1990/hotaru_theme">Hotaru</a></p>'
 };
